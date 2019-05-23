@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#f2de03</color>
+    <color name="colorPrimaryDark">#f2de03</color>
+    <color name="colorAccent">#528bf4</color>
+    <color name="colorAccentLight">#82A6EC</color>
+    <color name="colorBody">#f2de03</color>
+    <color name="colorHeading">#DE000000</color>
+    <color name="colorSubHeading">#DE000000</color>
+    <color name="colorText">#DE000000</color>
+    <color name="dotInactive">#DE000000</color>
+    <color name="dotActive">#DE000000</color>
+</resources>
